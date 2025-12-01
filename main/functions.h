@@ -1,4 +1,4 @@
-/*Written by Siddharth as a C project. This file provides a basic functionality for easy file manipulation...I made it personally to be like mongodb with sql like easy command. But not succeeded. However provided basic file mainpulation locally on system. Functions can be used and be adjusted as per the main file and execute() executer in this file..*/
+/*Written by Shyam Sundar Sahu as a C project. This file provides a basic functionality for easy file manipulation...I made it personally to be like mongodb with sql like easy command. But not succeeded. However provided basic file mainpulation locally on system. Functions can be used and be adjusted as per the main file and execute() executer in this file..*/
 
 #ifndef FUNCTIONS_H
 #define FUNCTIONS_H
